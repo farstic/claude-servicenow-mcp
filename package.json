@@ -1,8 +1,8 @@
 {
-  "name": "nowaikit",
-  "mcpName": "io.github.aartiq/nowaikit",
+  "name": "claude-servicenow-mcp",
+  "mcpName": "io.github.farstic/claude-servicenow-mcp",
   "version": "4.0.5",
-  "description": "The Most Comprehensive ServiceNow AI Toolkit — 400+ MCP tools + 26 AI capabilities (scan, review, build, ops, docs) + direct BYOK mode. Integrates with Claude, ChatGPT, Gemini, Cursor, GitHub Copilot and any LLM.",
+  "description": "ServiceNow MCP server for the Claude ServiceNow Engine",
   "main": "dist/server.js",
   "types": "dist/server.d.ts",
   "exports": {
@@ -105,14 +105,14 @@
     "sdk",
     "servicenow-sdk"
   ],
-  "author": "aartiq",
-  "homepage": "https://github.com/aartiq/nowaikit#readme",
+  "author": "farstic",
+  "homepage": "https://github.com/farstic/claude-servicenow-mcp#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aartiq/nowaikit.git"
+    "url": "https://github.com/farstic/claude-servicenow-mcp.git"
   },
   "bugs": {
-    "url": "https://github.com/aartiq/nowaikit/issues"
+    "url": "https://github.com/farstic/claude-servicenow-mcp/issues"
   },
   "license": "SEE LICENSE IN LICENSE",
   "overrides": {
